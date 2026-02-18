@@ -12,7 +12,7 @@ Inbound rail freight volumes by commodity and origin state using FAF 5.7.1 data.
 https://github.com/angelarwyatt-create/ohio-rail-freight-flow-analysis
 
 - Tableau Dashboard:
-[[PASTE YOUR TABLEAU PUBLIC LINK HERE](https://public.tableau.com/app/profile/angela.wyatt/vizzes)]
+[[View on Tableau Public](https://public.tableau.com/app/profile/angela.wyatt/vizzes)]
 
 ---
 
