@@ -12,7 +12,7 @@ Inbound rail freight volumes by commodity and origin state using FAF 5.7.1 data.
 https://github.com/angelarwyatt-create/ohio-rail-freight-flow-analysis
 
 - Tableau Dashboard:
-[[View on Tableau Public(https://public.tableau.com/views/Top10STCCbyRailwithDestinationOhio2024SourceBureauofTransportationStatistics/Top10STCCbyRailwithDestinationOhio2024SourceBureauofTransportationStatistics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
+[[View on Tableau Public](https://public.tableau.com/views/Top10STCCbyRailwithDestinationOhio2024SourceBureauofTransportationStatistics/Top10STCCbyRailwithDestinationOhio2024SourceBureauofTransportationStatistics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
 
 ---
 
