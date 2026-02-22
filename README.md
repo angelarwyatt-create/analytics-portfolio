@@ -16,4 +16,12 @@ https://github.com/angelarwyatt-create/ohio-rail-freight-flow-analysis
 
 ---
 
+### 📊 FAF 5.7.1 Freight Scenario Model
+
+Interactive visualization of published FAF 5.7.1 freight projections with adjustable High Growth and Low Growth scenarios.
+
+🔗 Repository: https://github.com/yourusername/project-repo-name  
+📈 Tableau Dashboard: [https://public.tableau.com/views/YourDashboardLink](https://public.tableau.com/views/OhioDestinationRailFreightScenarioAnalysisusingFAF5_7_1/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
+
+
 Additional projects coming soon.
