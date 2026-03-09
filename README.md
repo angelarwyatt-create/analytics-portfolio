@@ -7,6 +7,16 @@ The projects use public freight datasets and Tableau dashboards to explore
 network flows, commodity dependencies, and strategic risk factors affecting
 rail freight operations.
 
+## About
+This portfolio highlights analytics projects focused on transportation,
+logistics, and operational decision support. The work explores freight
+movement patterns, commodity dependency, and supply network risk using
+public transportation datasets and Tableau dashboards.
+
+My professional background includes experience in rail transportation
+operations and process improvement, with a focus on applying data
+analysis to support operational planning and strategic decision making.
+
 ## Projects
 
 ### 📊 Ohio Rail Freight Flow Analysis
