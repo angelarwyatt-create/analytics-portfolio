@@ -1,7 +1,11 @@
 # Analytics & Operations Portfolio
 
-This page links to selected analytics projects focused on
-transportation, logistics, and operational insights.
+This repository highlights analytics projects focused on transportation,
+logistics, and operational decision support.
+
+The projects use public freight datasets and Tableau dashboards to explore
+network flows, commodity dependencies, and strategic risk factors affecting
+rail freight operations.
 
 ## Projects
 
