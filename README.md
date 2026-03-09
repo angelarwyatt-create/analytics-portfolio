@@ -28,4 +28,19 @@ https://github.com/angelarwyatt-create/ohio-rail-freight-forecast-scenario
 [[View on Tableau Public](https://public.tableau.com/views/OhioDestinationRailFreightScenarioAnalysisusingFAF5_7_1/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
 
 
+
+### 📊 Ohio Rail Freight Dependency & Network Risk Dashboard
+
+Executive-style dashboard evaluating coal exposure, commodity concentration, and geographic supply risk for inbound rail freight to Ohio using FAF 5.7.1 data.
+
+Repository:
+https://github.com/angelarwyatt-create/ohio-rail-freight-risk-dashboard
+
+- Tableau Dashboard:
+[[View on Tableau Public](https://public.tableau.com/views/OhioRailFreightDependencyNetworkRisk/OhioRailFreightDependencyNetworkRisk?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
+
+
+
+
+
 Additional projects coming soon.
